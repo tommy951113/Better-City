@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--actionbar buttons-->
+    <item android:id="@+id/search_button"
+        android:icon="@drawable/actionbar_search_icon"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="@string/search_button"
+        app:showAsAction="always|collapseActionView"/>
+    <!--main functions of app-->
+    <!--<item android:id="@+id/action_paint"-->
+        <!--app:actionProviderClass="com.example.tommy.bettercity.CityActionProvider"-->
+        <!--android:icon="@drawable/actionbar_add_icon"-->
+        <!--app:showAsAction="always"-->
+        <!--android:title="@string/app_name"/>-->
+</menu>

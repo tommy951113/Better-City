@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Better City</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">搜一搜</string>
+    <string name="user_name">昵称</string>
+    <string name="image">头像</string>
+    <string name="exit_account">退出当前账号</string>
+    <string name="account">logo</string>
+    <string name="title">Better City</string>
+    <string name="search_button">search</string>
+    <string name="jxrc">锦绣蓉城</string>
+    <string name="mwch">美味吃货</string>
+    <string name="nnrx">暖暖人心</string>
+    <string name="cyjd">创意经典</string>
+    <string name="ddbml">打倒不美丽</string>
+    <string name="index">主页</string>
+    <string name="photo">随手拍</string>
+    <string name="msg">消息</string>
+    <string name="me">我</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help">使用帮助</string>
+    <string name="about_us">关于我们</string>
+    <string name="action_share">share</string>
+    <string name="take_photo">拍照</string>
+    <string name="select_photo">选择照片</string>
+    <string name="sign">个性签名</string>
+    <string name="no_message">暂时还没有消息哦</string>
+    <string name="measure">测</string>
+    <string name="no_place">啊哦，什么都没找到哦</string>
+    <string name="id">账号</string>
+    <string name="password">密码</string>
+    <string name="register">注册新用户</string>
+    <string name="login">登录</string>
+    <string name="register_button">注册</string>
+    <string name="birthday_choice">选择生日</string>
+</resources>
